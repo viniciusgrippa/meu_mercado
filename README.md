@@ -9,24 +9,29 @@ Utilizar novas tags sugeridas: <font>, <del>, <p>, <abbr> (a ideia é buscar est
 Nesse exercício, será criada uma página com produtos de um mercado. Nesse primeiro momento, evitarei ao máximo a utilização de CSS (que será inserido em um segundo momento), focando apenas nas tags HTML.
 
 TAGS utilizadas nesse projeto:
-<!-- -->
-<!DOCTYPE>
-<a href="#">
-<abbr>
-<address>
-<article>
-<b>
-<blockquote>
-<br>
-<button>
-<em>
-<figure>
-<figurecaption>
-<footer>
-<h1..h3>
-<header>
-<hr>
-<i>
-<image>
-<input>
-<nav>
+!-- --
+!DOCTYPE
+a href="#"
+abbr
+address
+article
+b
+blockquote
+br
+button
+em
+figure
+figurecaption
+footer
+h1..h3
+header
+hr
+i
+image
+input
+nav
+
+e algumas outras.
+
+
+OBS: Esse projeto ainda terá atualizações.
