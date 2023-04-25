@@ -33,5 +33,8 @@ nav
 
 e algumas outras.
 
+Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seguinte endereço:
+https://github.com/digitalinnovationone/trilha-html-modulo-1
+
 
 OBS: Esse projeto ainda terá atualizações.
